@@ -32,16 +32,16 @@
 ### Docker
 
 ```
-docker pull apachecn0/{repo}
-docker run -tid -p <port>:80 apachecn0/{repo}
+docker pull apachecn0/{dockerName}
+docker run -tid -p <port>:80 apachecn0/{dockerName}
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install {repo}
-{repo} <port>
+pip install {pypiName}
+{pypiName} <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
