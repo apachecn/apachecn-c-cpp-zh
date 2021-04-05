@@ -1,45 +1,11 @@
-<!--
-    需要填充的占位符：
-    
-    README.md
-    
-        {name}：文档中文名
-        {nameEn}：文档英文名
-        {urlEn}：文档原始链接
-        {domain}：域名前缀
-        {adminName}：负责人名称
-        {adminUn}：负责人 Github 用户名
-        {adminQq}：负责人 QQ
-        {repo}：ApacheCN 的 Github 仓库名称
-        {dockerName}：DockerHub 仓库名称
-        {pypiName}：PYPI 包名称
-        {npmName}：NPM 包名称
-    
-    CNAME
-    
-        {domain}：域名前缀
+# ApacheCN C/C++ 译文集
 
-    index.html
-    
-        {name}：文档中文名
-        {color}：显示颜色
-        {repo}：ApacheCN 的 Github 仓库名称
-
-    asset/docsify-apachecn-footer.js
-    
-        {repo}：ApacheCN 的 Github 仓库名称
--->
-
-# {name}
-
-> 原文：[{nameEn}]({urlEn})
-> 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 让开源界提前感受入关。
 
-* [在线阅读](https://{domain}.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
+* [在线阅读](https://ccpp.apachecn.org)
+* [在线阅读（Gitee）](https://apachecn.gitee.io/apachecn-c-cpp-zh/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
 ## 贡献指南
@@ -52,11 +18,11 @@
 
 ### 负责人
 
-* [{adminName}](https://github.com/{adminUn}): {adminQq}
+* [飞龙](https://github.com/wizardforcel): 562826179
 
 ### 其他
 
-*   在我们的 [apachecn/{repo}](https://github.com/apachecn/{repo}) github 上提 issue.
+*   在我们的 [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
 
@@ -65,24 +31,24 @@
 ### Docker
 
 ```
-docker pull apachecn0/{dockerName}
-docker run -tid -p <port>:80 apachecn0/{dockerName}
+docker pull apachecn0/apachecn-c-cpp-zh
+docker run -tid -p <port>:80 apachecn0/apachecn-c-cpp-zh
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### PYPI
 
 ```
-pip install {pypiName}
-{pypiName} <port>
+pip install apachecn-c-cpp-zh
+apachecn-c-cpp-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g {npmName}
-{npmName} <port>
+npm install -g apachecn-c-cpp-zh
+apachecn-c-cpp-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
