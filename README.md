@@ -32,6 +32,17 @@
 +   [精通 C++ 多线程](docs/master-cpp-multithrd/SUMMARY.md)
 +   [现代 C++ 编程](docs/mod-cpp/SUMMARY.md)
 +   [现代 C++ 的挑战](docs/mod-cpp-challenge/SUMMARY.md)
++   [C++ 游戏编程入门手册](docs/begin-cpp-game-prog/SUMMARY.md)
++   [Boost.Asio C++ 网络编程入门中文第二版](docs/boost-asio-cpp-net-prog-2e/SUMMARY.md)
++   [Boost C++ 应用开发秘籍](docs/boost-cpp-app-dev-cb/SUMMARY.md)
++   [C++ 数据结构和算法设计原则](docs/cpp-dsal-design-principle/SUMMARY.md)
++   [C++ 高性能编程](docs/cpp-hiperf/SUMMARY.md)
++   [C++ 反应式编程](docs/cpp-react-prog/SUMMARY.md)
++   [C++ 系统编程秘籍](docs/cpp-sys-prog-cb/SUMMARY.md)
++   [C++ 工作室](docs/cpp-workshop/SUMMARY.md)
++   [WebAssembly 游戏编程实用指南](docs/handson-game-dev-wasm/SUMMARY.md)
++   [C++ 函数式编程学习手册](docs/learn-cpp-func-prog/SUMMARY.md)
++   [Qt5 学习手册](docs/learn-qt5/SUMMARY.md)
 
 ## 贡献指南
 
