@@ -11,6 +11,17 @@
 ## 目录
 
 +   [笨办法学C 中文版](docs/lcthw-zh/SUMMARY.md)
++   [C++ 高级编程](docs/adv-cpp/SUMMARY.md)
++   [C++ 高级编程秘籍](docs/adv-cpp-prog-cb/SUMMARY.md)
++   [C++ Qt5 GUI 编程](docs/cpp-gui-prog-qt5/SUMMARY.md)
++   [C++ 专家级编程](docs/exp-cpp/SUMMARY.md)
++   [C++ 游戏动画编程实用指南](docs/handson-cpp-game-ani-prog/SUMMARY.md)
++   [C++ 函数式编程实用指南](docs/handson-func-prog-cpp/SUMMARY.md)
++   [C++ 机器学习实用指南](docs/handson-ml-cpp/SUMMARY.md)
++   [通过使用 UE4 构建游戏学习 C++](docs/learn-cpp-build-game-ue4/SUMMARY.md)
++   [精通 C++ 游戏开发](docs/master-cpp-game-dev/SUMMARY.md)
++   [精通 C++ 编程](docs/master-cpp-prog/SUMMARY.md)
++   [Qt5 C++ GUI 编程秘籍](docs/qt5-cpp-gui-prog-cb/SUMMARY.md)
 
 ## 贡献指南
 
