@@ -22,6 +22,16 @@
 +   [精通 C++ 游戏开发](docs/master-cpp-game-dev/SUMMARY.md)
 +   [精通 C++ 编程](docs/master-cpp-prog/SUMMARY.md)
 +   [Qt5 C++ GUI 编程秘籍](docs/qt5-cpp-gui-prog-cb/SUMMARY.md)
++   [Qt Creator 应用开发](docs/app-dev-qt-creator/SUMMARY.md)
++   [C++ 编程入门手册](docs/begin-cpp-prog/SUMMARY.md)
++   [现代 C++ 嵌入式编程秘籍](docs/emb-prog-mod-cpp-cb/SUMMARY.md)
++   [C++ 专家级编程](docs/exp-cpp-prog/SUMMARY.md)
++   [UE 游戏开发项目](docs/game-dev-proj-ue/SUMMARY.md)
++   [CUDA 编程学习手册](docs/learn-cuda-prog/SUMMARY.md)
++   [WebAssembly 学习手册](docs/learn-wasm/SUMMARY.md)
++   [精通 C++ 多线程](docs/master-cpp-multithrd/SUMMARY.md)
++   [现代 C++ 编程](docs/mod-cpp/SUMMARY.md)
++   [现代 C++ 的挑战](docs/mod-cpp-challenge/SUMMARY.md)
 
 ## 贡献指南
 
