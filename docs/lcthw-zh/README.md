@@ -6,6 +6,8 @@
 
 译者：[飞龙](https://github.com/wizardforcel)
 
+阶段：精细校对（4）
+
 自豪地采用[谷歌翻译](https://translate.google.cn/)
 
 > **一句 MMP 送给在座的各位程序正义垃圾。**
